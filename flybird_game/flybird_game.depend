@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1651194102 source:d:\study programs\git\github\git\my-git\flybird\flybird_game\main.cpp
+	<iostream>
+	<conio.h>
+	<dos.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<chrono>
+
